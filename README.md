@@ -1,1 +1,2 @@
 # IBM-PROJECT---EDTA-ON-NETFLIX-MOVIES-AND-SERIALS
+<br> This Exploratory Data Analysis is to practice Python skills learned till now on a structured data set including loading, inspecting, wrangling, exploring, and drawing conclusions from data. The notebook has observations with each step in order to explain thoroughly how to approach the data set. Based on the observation some questions also are answered in the notebook for the reference though not all of them are explored in the analysis.
